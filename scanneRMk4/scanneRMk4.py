@@ -4,7 +4,7 @@ import shutil
 
 def machine():
     print("This will scan your entire system for a filetype and date of your chosing")
-    fileIn = input("Input your system drive to scan(C:\\ is usually the default): ")
+    fileIn = input("Input your system drive to scan (C:\\ is usually the default): ")
     filesOut = input("Where do you want to store your files(type 'default' to store to where program is located): ")
     searchtype = input("Month or day, (m/d/n); Type d to find files based on day, month and year or, "
                        "type m to find files based on only month and year, or n for no date filtering so m/d/n?: ")
