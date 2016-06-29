@@ -1,4 +1,4 @@
- amundsen5 or lumonHex's python project: scanneR
+# amundsen5 or lumonHex's python project: scanneR
 
 
 ScanneR Mk1 = searches for popular filetypes of images and sorts them by date, copying them to a collection folder
